@@ -1,0 +1,7 @@
+version: v1
+directories: []
+
+
+
+# Note to myself: when I am ready to wire driftq-proto, set directories to point at a local clone,
+# or use buf dep to reference the remote module, then update proto: paths and out: as desired!!!

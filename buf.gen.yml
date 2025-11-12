@@ -1,0 +1,6 @@
+version: v1
+plugins:
+  - plugin: buf.build/protocolbuffers/go
+    out: internal/gen
+  - plugin: buf.build/grpc/go
+    out: internal/gen
